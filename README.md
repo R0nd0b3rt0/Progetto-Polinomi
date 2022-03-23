@@ -1,1 +1,1 @@
-# Progetto-cromosonomi
+# Progetto-polinomi 
